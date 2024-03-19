@@ -20,7 +20,37 @@ Running
 
 <img width="451" alt="image" src="https://github.com/khoinguyenpham/Build-own-tools-for-penetration-testing/assets/108651467/41bae2f6-e4c4-4e70-a577-a3d1834714fd">
 
+## Keylogger
 
+Vulnerable virtual machine: Metasploitable 2
+
+### Install library pynput
+
+![image](https://github.com/khoinguyenpham/Build-own-tools-for-penetration-testing/assets/108651467/0a3b9ee6-adee-4c4d-b6fc-33aabe71bae1)
+
+### Deploy
+
+Checking IP address of target
+
+<img width="451" alt="image" src="https://github.com/khoinguyenpham/Build-own-tools-for-penetration-testing/assets/108651467/ac3e5687-8a4b-4fe6-970d-394e5d8db6fe">
+
+Checking file in Metasploitable machine
+
+<img width="454" alt="image" src="https://github.com/khoinguyenpham/Build-own-tools-for-penetration-testing/assets/108651467/81fb8e68-d28e-4988-a0e2-4da6e3849c05">
+
+Running
+
+<img width="285" alt="image" src="https://github.com/khoinguyenpham/Build-own-tools-for-penetration-testing/assets/108651467/f6106511-0928-4424-882a-155d27694e2d">
+
+### Result
+
+<img width="228" alt="image" src="https://github.com/khoinguyenpham/Build-own-tools-for-penetration-testing/assets/108651467/f32748e8-3a13-4ebd-8084-477e9971bc5a">
+
+Target
+
+<img width="454" alt="image" src="https://github.com/khoinguyenpham/Build-own-tools-for-penetration-testing/assets/108651467/acab11d3-fe9a-4b18-bfa4-31a9c561fb31">
+
+<img width="300" alt="image" src="https://github.com/khoinguyenpham/Build-own-tools-for-penetration-testing/assets/108651467/1d43e0e0-8a12-4f40-ae47-3d179adec961">
 
 ## ZIP password Brute forcing Cracker
 
